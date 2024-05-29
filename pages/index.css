@@ -92,7 +92,7 @@
 }
 
 .header__footer {
-  margin: auto 80px 40px 80px;
+  margin: auto 80px 40px 0;
   display: flex;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
