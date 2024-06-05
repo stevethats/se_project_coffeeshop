@@ -2,11 +2,9 @@
   height: 100vh;
   min-height: 720px;
   max-height: 800px;
-  background-color: #ffffff;
-  background: url("../images/background_header.svg");
   padding: 30px 80px 40px;
-  background-size: cover;
-  background-position: center;
+  background: #ffffff url("../images/background_header.svg") no-repeat center /
+    cover;
   display: flex;
   flex-direction: column;
   position: relative;
