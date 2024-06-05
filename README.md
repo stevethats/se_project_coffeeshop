@@ -2,6 +2,8 @@
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
+The basic structure allows for navigation through the site via the navigation bar, it allows the user to add input for creating a reservation at the coffee shop, and shows the proper use of the newely learned "transition" and "animation" properties to add to a more friendly GUI.
+
 ## Project features
 
 - Semantic HTML5
