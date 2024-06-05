@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Edit page so the separate sections are different pages rather than one simultanious page
+- Add pictures for menu items to create visual representation for those who don't read English very well
