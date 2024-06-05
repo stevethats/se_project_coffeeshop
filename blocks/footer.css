@@ -47,12 +47,12 @@
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__social-link {
   text-decoration: none;
   color: #ffffff;
-  margin: 0 0 0 10px;
   transition: color 0.6s ease-in;
 }
 
