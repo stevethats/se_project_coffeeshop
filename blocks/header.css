@@ -3,12 +3,13 @@
   min-height: 720px;
   max-height: 800px;
   background-color: #ffffff;
-  background-image: url(../images/background_header.svg);
+  background-image: url("../images/background_header.svg");
   padding: 30px 80px 40px;
   background-size: cover;
   background-position: center;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .nav {
@@ -57,6 +58,7 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   margin: 183px 0 0 0;
+  z-index: 1;
 }
 
 .header__span-accent {
@@ -77,6 +79,7 @@
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0 0;
+  z-index: 1;
 }
 
 .header__image {
